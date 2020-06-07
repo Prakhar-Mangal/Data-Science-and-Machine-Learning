@@ -1,2 +1,3 @@
-# Data-Science-and-Machine-Learning
-Data Science and Machine Learning for beginners
+## Data Science and Machine Learning for beginners
+* Pandas_And_Matplotlib_Basics
+* Linear_Regression_Basics
