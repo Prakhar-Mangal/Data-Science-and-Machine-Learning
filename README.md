@@ -6,5 +6,7 @@
 * Save Model Using Joblib And Pickle  👉 [click_here](https://github.com/Prakhar-Mangal/Data-Science-and-Machine-Learning/blob/master/%235_Saving_Model.ipynb)
 * One Hot Encoding  👉 [click_here](https://github.com/Prakhar-Mangal/Data-Science-and-Machine-Learning/blob/master/%236one_hot_encoding.ipynb)
 * Training and Testing Data  👉 [click_here](https://github.com/Prakhar-Mangal/Data-Science-and-Machine-Learning/blob/master/%237Training_and_Testing_Data.ipynb)
+* Logistic_Regression  👉 [click_here](https://github.com/Prakhar-Mangal/Data-Science-and-Machine-Learning/blob/master/%237Logistic_Regression.ipynb)
+
 
 
